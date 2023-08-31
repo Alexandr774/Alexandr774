@@ -1,7 +1,7 @@
 
 
 ## Alexandr Chekalin 
-## Python developer(junior)
+## Python developer
 
 ### Languages and Tools
 
